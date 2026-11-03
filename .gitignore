@@ -218,3 +218,69 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- Atlas: privacy and secrets (append this block to the END of the existing .gitignore) ----
+# Rule: nothing personal, no credentials, no images except explicitly allowed assets.
+
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets*
+credentials*.json
+whoop_tokens*.json
+whoop*.token
+config/whoop.json
+!config/whoop.example.json
+
+# Real data stays outside the repository. Only invented sample data is allowed under data/sample/.
+data/*
+!data/sample/
+!data/sample/**
+private/
+personal/
+inbox/
+exports/
+food_log*.jsonl
+!data/sample/food_log.sample.jsonl
+known_foods*.json
+!data/sample/known_foods.sample.json
+standing_day*.json
+!data/sample/standing_day.sample.json
+
+# Logs, caches and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Images: blocked everywhere (food, label and body photos, screenshots with personal content),
+# except the folder reserved for reviewed project assets
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.heic
+*.heif
+*.bmp
+*.tiff
+!docs/assets/
+!docs/assets/**
+
+# Documents that may carry personal data or metadata
+*.pdf
+*.docx
+*.xlsx
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
