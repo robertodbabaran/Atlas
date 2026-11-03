@@ -2,7 +2,7 @@
 
 A single ledger reconciling biometric and consumption data, and visualizing health.
 
-> **Status: early.** The repository was created on 2026-11-02. This README describes the design and what is planned. Items marked *planned* are not built yet. The first tagged release (v0.1.0) targets 2026-11-07.
+> **Status: early.** The repository was created on 2026-11-02. This README describes the design and what is planned. Items marked *planned* are not built yet. The first tagged release (v0.1.0) targets 2026-11-22.
 
 ## The idea
 
@@ -65,7 +65,7 @@ Atlas is a bookkeeping and visualization tool. It does not provide medical, diet
 
 ## Roadmap
 
-- **v0.1.0 (target 2026-11-07):** sample data, export script, one 7-day view, the 30-day matrix
+- **v0.1.0 (target 2026-11-22):** sample data, export script, one 7-day view, the 30-day matrix
 - **Next:** tests, continuous integration, the WHOOP link, first cited knowledge entries
 - **Later:** a documentation page and a second release
 
