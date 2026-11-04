@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "note": "Generic meal slots. Edit freely. Slot names are labels only.",
+  "slots": [
+    {"id": "breakfast", "label": "Breakfast"},
+    {"id": "lunch", "label": "Lunch"},
+    {"id": "dinner", "label": "Dinner"},
+    {"id": "snack", "label": "Snack"},
+    {"id": "pre_activity", "label": "Before activity"},
+    {"id": "post_activity", "label": "After activity"}
+  ]
+}
