@@ -1,0 +1,7 @@
+{
+  "note": "EXAMPLE ONLY. Every value is a placeholder (null). Atlas ships no default targets. Copy this file to a folder outside the repository and fill in your own numbers and where each one came from.",
+  "version": 1,
+  "energy_kcal": {"kind": "range", "low": null, "high": null, "source": "<your choice or a reference you opened>"},
+  "protein_g": {"kind": "floor", "target": null, "source": "<your choice or a reference you opened>"},
+  "completeness_min": {"kind": "share of expected entries logged, 0 to 1", "value": null, "source": "<your choice>"}
+}
