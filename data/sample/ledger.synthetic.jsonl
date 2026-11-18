@@ -1,0 +1,91 @@
+{"_data": "SYNTHETIC", "meta": "synthetic", "note": "SYNTHETIC. Invented for testing Atlas. Not real food, not real nutrient data, not a real person's log."}
+{"amount": 210, "date": "2099-01-01", "food_id": "sample-bean-stew", "id": "e-000001", "slot": "breakfast", "status": "weighed", "unit": "g"}
+{"amount": 140, "date": "2099-01-01", "food_id": "sample-fish-fillet", "id": "e-000002", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": 50, "date": "2099-01-01", "food_id": "sample-fish-fillet", "id": "e-000003", "slot": "dinner", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-03", "food_id": "sample-fruit", "id": "e-000004", "slot": "breakfast", "status": "label", "unit": "item"}
+{"amount": 210, "date": "2099-01-03", "food_id": "sample-bean-stew", "id": "e-000005", "slot": "lunch", "status": "unconfirmed", "unit": "g"}
+{"amount": 300, "date": "2099-01-03", "food_id": "sample-green-salad", "id": "e-000006", "slot": "dinner", "status": "weighed", "unit": "g"}
+{"amount": 80, "date": "2099-01-03", "food_id": "sample-green-salad", "id": "e-000007", "slot": "snack", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-04", "food_id": "sample-fruit", "id": "e-000008", "slot": "breakfast", "status": "label", "unit": "item"}
+{"amount": 1, "date": "2099-01-04", "food_id": "sample-yogurt-cup", "id": "e-000009", "slot": "lunch", "status": "label", "unit": "item"}
+{"amount": 190, "date": "2099-01-04", "food_id": "sample-green-salad", "id": "e-000010", "slot": "dinner", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-05", "food_id": "sample-yogurt-cup", "id": "e-000011", "slot": "breakfast", "status": "label", "unit": "item"}
+{"amount": 200, "date": "2099-01-05", "food_id": "sample-green-salad", "id": "e-000012", "slot": "lunch", "status": "label", "unit": "g"}
+{"amount": 250, "date": "2099-01-05", "food_id": "sample-green-salad", "id": "e-000013", "range": [200.0, 300.0], "slot": "dinner", "status": "estimate", "unit": "g"}
+{"amount": 270, "date": "2099-01-06", "food_id": "sample-fish-fillet", "id": "e-000014", "range": [216.0, 324.0], "slot": "breakfast", "status": "estimate", "unit": "g"}
+{"amount": 300, "date": "2099-01-06", "food_id": "sample-green-salad", "id": "e-000015", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": 240, "date": "2099-01-06", "food_id": "sample-green-salad", "id": "e-000016", "slot": "dinner", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-08", "food_id": "sample-fruit", "id": "e-000017", "slot": "breakfast", "status": "label", "unit": "item"}
+{"amount": 1, "date": "2099-01-08", "food_id": "sample-snack-bar", "id": "e-000018", "slot": "lunch", "status": "label", "unit": "item"}
+{"amount": 1, "date": "2099-01-08", "food_id": "sample-yogurt-cup", "id": "e-000019", "slot": "dinner", "status": "label", "unit": "item"}
+{"amount": null, "date": "2099-01-08", "food_id": "sample-fish-fillet", "id": "e-000020", "note": "amount not recorded", "slot": "snack", "status": "unconfirmed", "unit": "g"}
+{"amount": 230, "date": "2099-01-09", "food_id": "sample-grain-bowl", "id": "e-000021", "slot": "breakfast", "status": "label", "unit": "g"}
+{"amount": 1, "date": "2099-01-09", "food_id": "sample-snack-bar", "id": "e-000022", "range": [0.8, 1.2], "slot": "lunch", "status": "estimate", "unit": "item"}
+{"amount": 150, "date": "2099-01-09", "food_id": "sample-bean-stew", "id": "e-000023", "range": [120.0, 180.0], "slot": "dinner", "status": "estimate", "unit": "g"}
+{"amount": 80, "date": "2099-01-10", "food_id": "sample-bean-stew", "id": "e-000024", "slot": "breakfast", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-10", "food_id": "sample-fruit", "id": "e-000025", "slot": "lunch", "status": "label", "unit": "item"}
+{"amount": 150, "date": "2099-01-10", "food_id": "sample-bean-stew", "id": "e-000026", "range": [120.0, 180.0], "slot": "dinner", "status": "estimate", "unit": "g"}
+{"amount": 270, "date": "2099-01-11", "food_id": "sample-fish-fillet", "id": "e-000027", "range": [216.0, 324.0], "slot": "breakfast", "status": "estimate", "unit": "g"}
+{"amount": 1, "date": "2099-01-11", "food_id": "sample-snack-bar", "id": "e-000028", "slot": "lunch", "status": "label", "unit": "item"}
+{"amount": 140, "date": "2099-01-11", "food_id": "sample-green-salad", "id": "e-000029", "range": [112.0, 168.0], "slot": "dinner", "status": "estimate", "unit": "g"}
+{"amount": 90, "date": "2099-01-11", "food_id": "sample-bean-stew", "id": "e-000030", "slot": "snack", "status": "weighed", "unit": "g"}
+{"amount": 200, "date": "2099-01-12", "food_id": "sample-fish-fillet", "id": "e-000031", "slot": "breakfast", "status": "weighed", "unit": "g"}
+{"amount": 150, "date": "2099-01-12", "food_id": "sample-grain-bowl", "id": "e-000032", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": 290, "date": "2099-01-12", "food_id": "sample-fish-fillet", "id": "e-000033", "range": [232.0, 348.0], "slot": "dinner", "status": "estimate", "unit": "g"}
+{"amount": 1, "date": "2099-01-12", "food_id": "sample-yogurt-cup", "id": "e-000034", "range": [0.8, 1.2], "slot": "snack", "status": "estimate", "unit": "item"}
+{"amount": 1, "date": "2099-01-14", "food_id": "sample-fruit", "id": "e-000035", "range": [0.8, 1.2], "slot": "breakfast", "status": "estimate", "unit": "item"}
+{"amount": 1, "date": "2099-01-14", "food_id": "sample-fruit", "id": "e-000036", "slot": "lunch", "status": "label", "unit": "item"}
+{"amount": 70, "date": "2099-01-14", "food_id": "sample-green-salad", "id": "e-000037", "slot": "dinner", "status": "label", "unit": "g"}
+{"amount": 130, "date": "2099-01-16", "food_id": "sample-bean-stew", "id": "e-000038", "slot": "breakfast", "status": "weighed", "unit": "g"}
+{"amount": 80, "date": "2099-01-16", "food_id": "sample-grain-bowl", "id": "e-000039", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": 50, "date": "2099-01-16", "food_id": "sample-green-salad", "id": "e-000040", "range": [40.0, 60.0], "slot": "dinner", "status": "estimate", "unit": "g"}
+{"amount": 110, "date": "2099-01-16", "food_id": "sample-bean-stew", "id": "e-000041", "slot": "snack", "status": "weighed", "unit": "g"}
+{"amount": null, "date": "2099-01-17", "food_id": "sample-grain-bowl", "id": "e-000042", "note": "amount not recorded", "slot": "breakfast", "status": "unconfirmed", "unit": "g"}
+{"amount": 70, "date": "2099-01-17", "food_id": "sample-fish-fillet", "id": "e-000043", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": 110, "date": "2099-01-17", "food_id": "sample-green-salad", "id": "e-000044", "range": [88.0, 132.0], "slot": "dinner", "status": "estimate", "unit": "g"}
+{"amount": 80, "date": "2099-01-19", "food_id": "sample-fish-fillet", "id": "e-000045", "slot": "breakfast", "status": "label", "unit": "g"}
+{"amount": 180, "date": "2099-01-19", "food_id": "sample-grain-bowl", "id": "e-000046", "slot": "lunch", "status": "unconfirmed", "unit": "g"}
+{"amount": 1, "date": "2099-01-19", "food_id": "sample-yogurt-cup", "id": "e-000047", "slot": "dinner", "status": "label", "unit": "item"}
+{"amount": 1, "date": "2099-01-20", "food_id": "sample-fruit", "id": "e-000048", "slot": "breakfast", "status": "label", "unit": "item"}
+{"amount": 1, "date": "2099-01-20", "food_id": "sample-fruit", "id": "e-000049", "slot": "lunch", "status": "label", "unit": "item"}
+{"amount": 260, "date": "2099-01-20", "food_id": "sample-bean-stew", "id": "e-000050", "slot": "dinner", "status": "unconfirmed", "unit": "g"}
+{"amount": 1, "date": "2099-01-20", "food_id": "sample-fruit", "id": "e-000051", "range": [0.8, 1.2], "slot": "snack", "status": "estimate", "unit": "item"}
+{"amount": 140, "date": "2099-01-21", "food_id": "sample-fish-fillet", "id": "e-000052", "slot": "breakfast", "status": "weighed", "unit": "g"}
+{"amount": 120, "date": "2099-01-21", "food_id": "sample-grain-bowl", "id": "e-000053", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": null, "date": "2099-01-21", "food_id": "sample-yogurt-cup", "id": "e-000054", "note": "amount not recorded", "slot": "dinner", "status": "unconfirmed", "unit": "item"}
+{"amount": null, "date": "2099-01-21", "food_id": "sample-snack-bar", "id": "e-000055", "note": "amount not recorded", "slot": "snack", "status": "unconfirmed", "unit": "item"}
+{"amount": 100, "date": "2099-01-22", "food_id": "sample-bean-stew", "id": "e-000056", "slot": "breakfast", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-22", "food_id": "sample-yogurt-cup", "id": "e-000057", "slot": "lunch", "status": "unconfirmed", "unit": "item"}
+{"amount": 210, "date": "2099-01-22", "food_id": "sample-fish-fillet", "id": "e-000058", "range": [168.0, 252.0], "slot": "dinner", "status": "estimate", "unit": "g"}
+{"amount": 1, "date": "2099-01-23", "food_id": "sample-snack-bar", "id": "e-000059", "range": [0.8, 1.2], "slot": "breakfast", "status": "estimate", "unit": "item"}
+{"amount": 1, "date": "2099-01-23", "food_id": "sample-fruit", "id": "e-000060", "slot": "lunch", "status": "label", "unit": "item"}
+{"amount": 250, "date": "2099-01-23", "food_id": "sample-bean-stew", "id": "e-000061", "slot": "dinner", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-23", "food_id": "sample-snack-bar", "id": "e-000062", "slot": "snack", "status": "label", "unit": "item"}
+{"amount": 1, "date": "2099-01-24", "food_id": "sample-snack-bar", "id": "e-000063", "range": [0.8, 1.2], "slot": "breakfast", "status": "estimate", "unit": "item"}
+{"amount": 80, "date": "2099-01-24", "food_id": "sample-bean-stew", "id": "e-000064", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-24", "food_id": "sample-snack-bar", "id": "e-000065", "range": [0.8, 1.2], "slot": "dinner", "status": "estimate", "unit": "item"}
+{"amount": 1, "date": "2099-01-25", "food_id": "sample-snack-bar", "id": "e-000066", "range": [0.8, 1.2], "slot": "breakfast", "status": "estimate", "unit": "item"}
+{"amount": 190, "date": "2099-01-25", "food_id": "sample-green-salad", "id": "e-000067", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": 300, "date": "2099-01-25", "food_id": "sample-grain-bowl", "id": "e-000068", "slot": "dinner", "status": "label", "unit": "g"}
+{"amount": 1, "date": "2099-01-25", "food_id": "sample-snack-bar", "id": "e-000069", "slot": "snack", "status": "label", "unit": "item"}
+{"amount": 1, "date": "2099-01-26", "food_id": "sample-fruit", "id": "e-000070", "slot": "breakfast", "status": "label", "unit": "item"}
+{"amount": 120, "date": "2099-01-26", "food_id": "sample-bean-stew", "id": "e-000071", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-26", "food_id": "sample-yogurt-cup", "id": "e-000072", "slot": "dinner", "status": "label", "unit": "item"}
+{"amount": 1, "date": "2099-01-27", "food_id": "sample-snack-bar", "id": "e-000073", "slot": "breakfast", "status": "label", "unit": "item"}
+{"amount": null, "date": "2099-01-27", "food_id": "sample-fish-fillet", "id": "e-000074", "note": "amount not recorded", "slot": "lunch", "status": "unconfirmed", "unit": "g"}
+{"amount": 1, "date": "2099-01-27", "food_id": "sample-snack-bar", "id": "e-000075", "slot": "dinner", "status": "label", "unit": "item"}
+{"amount": 50, "date": "2099-01-27", "food_id": "sample-fish-fillet", "id": "e-000076", "slot": "snack", "status": "weighed", "unit": "g"}
+{"amount": 250, "date": "2099-01-28", "food_id": "sample-grain-bowl", "id": "e-000077", "slot": "breakfast", "status": "weighed", "unit": "g"}
+{"amount": 230, "date": "2099-01-28", "food_id": "sample-fish-fillet", "id": "e-000078", "slot": "lunch", "status": "label", "unit": "g"}
+{"amount": 180, "date": "2099-01-28", "food_id": "sample-green-salad", "id": "e-000079", "slot": "dinner", "status": "label", "unit": "g"}
+{"amount": 190, "date": "2099-01-28", "food_id": "sample-grain-bowl", "id": "e-000080", "slot": "snack", "status": "weighed", "unit": "g"}
+{"amount": 1, "date": "2099-01-29", "food_id": "sample-fruit", "id": "e-000081", "slot": "breakfast", "status": "label", "unit": "item"}
+{"amount": null, "date": "2099-01-29", "food_id": "sample-fish-fillet", "id": "e-000082", "note": "amount not recorded", "slot": "lunch", "status": "unconfirmed", "unit": "g"}
+{"amount": 1, "date": "2099-01-29", "food_id": "sample-yogurt-cup", "id": "e-000083", "slot": "dinner", "status": "label", "unit": "item"}
+{"amount": 1, "date": "2099-01-29", "food_id": "sample-yogurt-cup", "id": "e-000084", "slot": "snack", "status": "label", "unit": "item"}
+{"amount": 290, "date": "2099-01-30", "food_id": "sample-fish-fillet", "id": "e-000085", "range": [232.0, 348.0], "slot": "breakfast", "status": "estimate", "unit": "g"}
+{"amount": null, "date": "2099-01-30", "food_id": "sample-snack-bar", "id": "e-000086", "note": "amount not recorded", "slot": "lunch", "status": "unconfirmed", "unit": "item"}
+{"amount": 290, "date": "2099-01-30", "food_id": "sample-fish-fillet", "id": "e-000087", "range": [232.0, 348.0], "slot": "dinner", "status": "estimate", "unit": "g"}
+{"amount": 280, "corrects": "e-000006", "date": "2099-01-03", "food_id": "sample-green-salad", "id": "e-000088", "note": "re-weighed; replaces the earlier line", "slot": "dinner", "status": "weighed", "unit": "g"}
+{"amount": 130, "corrects": "e-000032", "date": "2099-01-12", "food_id": "sample-grain-bowl", "id": "e-000089", "note": "re-weighed; replaces the earlier line", "slot": "lunch", "status": "weighed", "unit": "g"}
+{"amount": 120, "corrects": "e-000002", "date": "2099-01-01", "food_id": "sample-fish-fillet", "id": "e-000090", "note": "re-weighed; replaces the earlier line", "slot": "lunch", "status": "weighed", "unit": "g"}
