@@ -1,0 +1,98 @@
+{
+  "_data": "SYNTHETIC",
+  "foods": [
+    {
+      "food_id": "sample-grain-bowl",
+      "name": "Sample grain bowl",
+      "nutrients": {
+        "energy_kcal": 150,
+        "fibre_g": 3.0,
+        "protein_g": 5.0,
+        "sodium_mg": 120
+      },
+      "per": "100 g",
+      "source": "invented for the Atlas sample",
+      "source_status": "estimate"
+    },
+    {
+      "food_id": "sample-bean-stew",
+      "name": "Sample bean stew",
+      "nutrients": {
+        "energy_kcal": 110,
+        "fibre_g": 6.0,
+        "protein_g": 7.0,
+        "sodium_mg": 300
+      },
+      "per": "100 g",
+      "source": "invented for the Atlas sample",
+      "source_status": "estimate"
+    },
+    {
+      "food_id": "sample-green-salad",
+      "name": "Sample green salad",
+      "nutrients": {
+        "energy_kcal": 40,
+        "fibre_g": 2.5,
+        "protein_g": 2.0,
+        "sodium_mg": 60
+      },
+      "per": "100 g",
+      "source": "invented for the Atlas sample",
+      "source_status": "estimate"
+    },
+    {
+      "food_id": "sample-fish-fillet",
+      "name": "Sample fish fillet",
+      "nutrients": {
+        "energy_kcal": 160,
+        "fibre_g": 0.0,
+        "protein_g": 22.0,
+        "sodium_mg": 90
+      },
+      "per": "100 g",
+      "source": "invented for the Atlas sample",
+      "source_status": "estimate"
+    },
+    {
+      "food_id": "sample-yogurt-cup",
+      "name": "Sample yogurt cup",
+      "nutrients": {
+        "energy_kcal": 120,
+        "fibre_g": 0.0,
+        "protein_g": 10.0,
+        "sodium_mg": 70
+      },
+      "per": "1 item",
+      "source": "invented for the Atlas sample",
+      "source_status": "estimate"
+    },
+    {
+      "food_id": "sample-fruit",
+      "name": "Sample fruit",
+      "nutrients": {
+        "energy_kcal": 90,
+        "fibre_g": 3.0,
+        "protein_g": 1.0,
+        "sodium_mg": 0
+      },
+      "per": "1 item",
+      "source": "invented for the Atlas sample",
+      "source_status": "estimate"
+    },
+    {
+      "food_id": "sample-snack-bar",
+      "name": "Sample snack bar",
+      "nutrients": {
+        "energy_kcal": 200,
+        "fibre_g": null,
+        "protein_g": 8.0,
+        "sodium_mg": 150
+      },
+      "per": "1 item",
+      "source": "invented for the Atlas sample",
+      "source_status": "estimate"
+    }
+  ],
+  "meta": "synthetic",
+  "note": "SYNTHETIC. Invented for testing Atlas. Not real food, not real nutrient data, not a real person's log."
+}
