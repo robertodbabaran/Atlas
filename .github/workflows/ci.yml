@@ -1,0 +1,28 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Sample data matches the generator
+        run: python scripts/make_sample.py --check
+      - name: Export runs on the sample
+        run: >
+          python scripts/export.py
+          --ledger data/sample/ledger.synthetic.jsonl
+          --catalogue data/sample/catalogue.synthetic.json
+          --out "$RUNNER_TEMP/atlas-out"
+          --as-of 2099-01-31
